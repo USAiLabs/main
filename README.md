@@ -1,5 +1,5 @@
 # USAiLabs Main Page
-<img src="https://github.com/USAiLabs/main/blob/master/usailabs_team_houston.png" width="200">
+<img src="https://github.com/USAiLabs/main/usailabs_team_houston.png" width="200">
 
 USAiLabs was created in 2019 to address the pent up demand for Ai, IOT, Machine Learning, and Robots.  We   innovate, tinker, educate, consult, research, and develop to awaken the American Competitive Spirit to innervate “Good ‘Ol Yankee Ingenuity”. This is the heart of harnessing TECH DIY (from the teaching, learning and R&D perspective).
 
